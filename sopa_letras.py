@@ -128,7 +128,7 @@ def temas():
 						
 						final = time.time()
 
-						if final - inicio >= 300:
+						if final - inicio >= 20:
 							print("")
 							print("Se termino el timepo")
 							break
@@ -210,7 +210,7 @@ def temas():
 						
 						final = time.time()
 
-						if final - inicio >= 200:
+						if final - inicio >= 20:
 							print("")
 							print("Se termino el timepo")
 							break
@@ -292,7 +292,7 @@ def temas():
 						
 						final = time.time()
 
-						if final - inicio >= 100:
+						if final - inicio >= 20:
 							print("")
 							print("Se termino el timepo")
 							break
